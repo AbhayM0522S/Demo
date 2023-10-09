@@ -1,4 +1,5 @@
-# Demo
-This is my first Git
-<br>
-Author :Abhay
+package main
+import"fmt"
+func main(){
+fmt.Println("hello every one")
+}
